@@ -1,6 +1,15 @@
 # imsy – improve markdown syntax and readability
 
-this utility improves the markdown syntax and readability of a text in a given file, using a set of rules.
+imsy is a utility that improves the markdown syntax and readability of a text in a given file, using a set of rules.
+
+## copyright note
+
+note that this "imsy" (this project) has **currently no license**, as explained here: https://choosealicense.com/no-permission/.
+
+for your convenience i am including below a quote from that site:
+> When you make a creative work (which includes code), the work is under exclusive copyright by default. Unless you include a license that specifies otherwise, nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation. Once the work has other contributors (each a copyright holder), “nobody” starts including you.
+
+also note that i can **add a lincese** in the near future if it would be relevant to the needs of this project.
 
 ## how to run this utility?
 
