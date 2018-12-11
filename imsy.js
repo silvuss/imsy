@@ -9,6 +9,9 @@ if (process.argv.length === 2) {
 } else if (process.argv.length < 2) {
     console.log("Other error occurred");
     return;
+} else if (process.argv.length > 3) {
+    console.log("Too many arguments provided");
+    return;
 }
 
 /* it is index number 2 because argv[0]
